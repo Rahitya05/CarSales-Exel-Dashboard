@@ -39,3 +39,8 @@ This Excel-based dashboard is designed for data enthusiasts, market analysts, an
 - **Visualizations**: The use of charts, graphs, and tables ensures that complex data is presented in an easily understandable format.
 
 Explore the data, make informed decisions, and gain a comprehensive understanding of the car sales market over the past two decades with this powerful dashboard.
+
+
+#### Name: P.Rahitya
+#### Email: rahityapentakota05@gmail.com
+#### Linkedin: https://www.linkedin.com/in/rahitya-pentakota-73ba57308/
