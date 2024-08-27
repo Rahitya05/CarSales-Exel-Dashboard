@@ -1,5 +1,6 @@
 # CarSales-Exel-Dashboard
-![Screenshot 2024-08-23 204124](https://github.com/user-attachments/assets/60502adf-683d-455e-ae63-f2474fb0d7dd)
+![Screenshot 2024-08-27 203613](https://github.com/user-attachments/assets/e290b29e-53e8-4573-a0b6-4dc24c006d0c)
+
 ### Interactive Car Sales Dashboard (1994-2020)
 
 Welcome to the Interactive Car Sales Dashboard, a comprehensive analytical tool designed to visualize and explore car sales data spanning from 1994 to 2020. This dashboard is built entirely in Excel, leveraging its powerful features to deliver in-depth insights across a variety of parameters, including selling price, transmission type, fuel type, number of seats, engine type, year, seller type, and brand performance.
